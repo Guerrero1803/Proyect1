@@ -1,0 +1,56 @@
+body {
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: 60px;
+  font-family: "Oswald", sans-serif;
+  color: rgb(48, 44, 43);
+  margin-bottom: 0px;
+}
+
+p {
+  font-size: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 25px;
+  padding: 10px 40px 10px 40px;
+  color: white;
+  display: inline-block;
+  background-color: rgb(171, 20, 71);
+  border-radius: 5px;
+  margin: 0px auto 50px auto;
+}
+
+a:hover {
+  background-color: rgb(218, 50, 87);
+}
+
+ul {
+  width: 475px;
+  list-style: none;
+  margin: auto;
+  padding: 0px;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: "Oswald", sans-serif;
+  color: rgb(87, 25, 14);
+}
+
+li {
+  background-color: rgb(227, 133, 111);
+  padding: 10px 20px 10px 20px;
+  margin: 30px auto 30px auto;
+  border-radius: 5px;
+  box-shadow: 1px 1px 4px;
+}
+
+.blacker {
+  background-color: rgb(232, 114, 87);
+}
